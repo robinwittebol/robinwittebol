@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey 👋
+
+I'm a frontend webdeveloper at [Dreamlab](https://www.dreamlab.nl/)
+
+Languages: `PHP` `Javascript` `HTML` `CSS` `SASS` `YAML` `JSON` `XML`
 
 <!--
 **robinwittebol/robinwittebol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
